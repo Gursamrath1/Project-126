@@ -1,0 +1,21 @@
+body{
+    background:url("https://burst.shopifycdn.com/photos/city-lights-through-rain-window.jpg?width=1200&format=pjpg&exif=1&iptc=1");
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+#song{
+    font-size:23px;
+    margin:15px;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px gray;
+}
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
